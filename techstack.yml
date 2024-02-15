@@ -1,0 +1,455 @@
+repo_name: gangadharure/examples
+report_id: 803f2a27077fdf8c97868cf4132984a5
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-15T15:15:45+00:00'
+requested_by: k8s-ci-robot
+provider: github
+branch: master
+detected_tools_count: 30
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/gangadharure/examples
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/gangadharure/examples
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/gangadharure/examples
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/gangadharure/examples
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/gangadharure/examples
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/gangadharure/examples
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/gangadharure/examples
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/staging/storage/vitess/create_test_table.sql
+  detection_source: staging/storage/vitess/create_test_table.sql
+  last_updated_by: Anthony Yeh
+  last_updated_on: 2015-08-25 23:14:52.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/staging/meteor/dockerbase/Dockerfile
+  detection_source: staging/meteor/dockerbase/Dockerfile
+  last_updated_by: Christiaan Hees
+  last_updated_on: 2015-04-17 11:24:53.000000000 Z
+- name: Cassandra
+  description: A partitioned row store. Rows are organized into tables with a required
+    primary key.
+  website_url: http://cassandra.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1032/cassandra_small.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/image/files/cassandra.yaml
+  detection_source: cassandra/image/files/cassandra.yaml
+  last_updated_by: chrislovecnm
+  last_updated_on: 2017-02-26 01:19:39.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/guestbook/redis-slave/Dockerfile
+  detection_source: guestbook/redis-slave/Dockerfile
+  last_updated_by: Manjunath A Kumatagi
+  last_updated_on: 2017-07-28 15:55:53.000000000 Z
+- name: ScratchDB
+  description: Open source Snowflake on ClickHouse
+  website_url: https://www.scratchdb.com/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Big Data Tools
+  image_url: https://img.stackshare.io/service/104997/default_64f16b2ca9869cd997fc48770dfb2fbf268a56d1.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/staging/explorer/Dockerfile
+  detection_source: staging/explorer/Dockerfile
+  last_updated_by: Daniel Smith
+  last_updated_on: 2015-05-13 21:57:09.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/gangadharure/examples
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/gangadharure/examples
+  detection_source: Repo Metadata
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: '4.11'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/java/pom.xml
+  detection_source: cassandra/java/pom.xml
+  last_updated_by: Brendan Burns
+  last_updated_on: 2015-03-24 17:36:43.000000000 Z
+- name: Kubernetes
+  description: Manage a cluster of Linux containers as a single system to accelerate
+    Dev and simplify Ops
+  website_url: http://kubernetes.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/image/Dockerfile
+  detection_source: cassandra/image/Dockerfile
+  last_updated_by: chrislovecnm
+  last_updated_on: 2017-02-26 01:19:39.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/image/files/logback.xml
+  detection_source: cassandra/image/files/logback.xml
+  last_updated_by: Patrick Tescher
+  last_updated_on: 2015-07-29 19:01:08.000000000 Z
+- name: PhpSpec
+  description: A  toolset for behavior driven development
+  website_url: http://www.phpspec.net/en/latest/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3502/6b9dfb07681dee602dbdf75d9393f07c_400x400.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/guestbook/php-redis/Dockerfile
+  detection_source: guestbook/php-redis/Dockerfile
+  last_updated_by: Brendan Burns
+  last_updated_on: 2014-06-11 19:33:39.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/java/pom.xml
+  detection_source: cassandra/java/pom.xml
+  last_updated_by: Brendan Burns
+  last_updated_on: 2015-03-24 17:36:43.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/staging/storage/redis/image/Dockerfile
+  detection_source: staging/storage/redis/image/Dockerfile
+  last_updated_by: Oz N Tiram
+  last_updated_on: 2018-10-05 02:27:40.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/gangadharure/examples
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/staging/phabricator/php-phabricator/Dockerfile
+  detection_source: staging/phabricator/php-phabricator/Dockerfile
+  last_updated_by: Filip Grzadkowski
+  last_updated_on: 2015-03-10 15:22:52.000000000 Z
+- name: ch.qos.logback:logback-classic
+  description: Logback-classic module
+  version: 1.1.3
+  license: EPL-1.0,LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/java/pom.xml
+  detection_source: cassandra/java/pom.xml
+  last_updated_by: chrislovecnm
+  last_updated_on: 2016-04-28 19:26:45.000000000 Z
+  vulnerabilities:
+  - name: QOS.ch Logback vulnerable to Deserialization of Untrusted Data
+    cve_id: CVE-2017-5929
+    cve_url: https://github.com/advisories/GHSA-vmfg-rjjm-rjrj
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.2.0
+  - name: logback serialization vulnerability
+    cve_id: CVE-2023-6378
+    cve_url: https://github.com/advisories/GHSA-vmq6-5m68-f53m
+    detected_date: Nov 30
+    severity: high
+    first_patched: 1.2.13
+- name: ch.qos.logback:logback-core
+  description: Logback-core module
+  version: 1.1.3
+  license: EPL-1.0,LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/java/pom.xml
+  detection_source: cassandra/java/pom.xml
+  last_updated_by: chrislovecnm
+  last_updated_on: 2016-04-28 19:26:45.000000000 Z
+  vulnerabilities:
+  - name: QOS.ch Logback vulnerable to Deserialization of Untrusted Data
+    cve_id: CVE-2017-5929
+    cve_url: https://github.com/advisories/GHSA-vmfg-rjjm-rjrj
+    detected_date: Jan 28
+    severity: critical
+    first_patched: 1.2.0
+  - name: logback serialization vulnerability
+    cve_id: CVE-2023-6378
+    cve_url: https://github.com/advisories/GHSA-vmq6-5m68-f53m
+    detected_date: Nov 30
+    severity: high
+    first_patched: 1.2.13
+  - name: Deserialization of Untrusted Data in logback
+    cve_id: CVE-2021-42550
+    cve_url: https://github.com/advisories/GHSA-668q-qrv7-99fm
+    detected_date: Dec 18
+    severity: moderate
+    first_patched: 1.2.9
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.11'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/java/pom.xml
+  detection_source: cassandra/java/pom.xml
+  last_updated_by: chrislovecnm
+  last_updated_on: 2016-04-28 19:26:45.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: org.apache.cassandra:cassandra-all
+  description: The Apache Cassandra Project develops a highly scalable second-generation
+    distributed database
+  version: 3.11.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/java/pom.xml
+  detection_source: cassandra/java/pom.xml
+  last_updated_by: Manuel de Brito Fontes
+  last_updated_on: 2018-02-22 01:43:58.000000000 Z
+  vulnerabilities:
+  - name: Apache Cassandra vulnerable to Code Injection due to unsafe configuration
+    cve_id: CVE-2021-44521
+    cve_url: https://github.com/advisories/GHSA-8ffc-79xg-29w8
+    detected_date: Feb 26
+    severity: critical
+    first_patched: 3.11.12
+  - name: Authentication Bypass in Apache Cassandra
+    cve_id: CVE-2020-17516
+    cve_url: https://github.com/advisories/GHSA-2vxm-vp4c-fjfw
+    detected_date: Feb 9
+    severity: high
+    first_patched: 3.11.10
+  - name: 'Apache Cassandra: Privilege escalation when enabling FQL/Audit logs'
+    cve_id: CVE-2023-30601
+    cve_url: https://github.com/advisories/GHSA-m9p2-j4hg-g373
+    detected_date: Jul 7
+    severity: high
+    first_patched: 4.0.10
+  - name: Man-in-the-middle attack in Apache Cassandra
+    cve_id: CVE-2020-13946
+    cve_url: https://github.com/advisories/GHSA-24ww-mc5x-xc43
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.11.8
+- name: org.codehaus.jackson:jackson-core-asl
+  description: Jackson is a high-performance JSON processor
+  version: 1.9.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/java/pom.xml
+  detection_source: cassandra/java/pom.xml
+  last_updated_by: chrislovecnm
+  last_updated_on: 2016-04-28 19:26:45.000000000 Z
+- name: org.codehaus.jackson:jackson-mapper-asl
+  description: Data Mapper package is a high-performance data binding package built
+    on Jackson JSON processor
+  version: 1.9.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/java/pom.xml
+  detection_source: cassandra/java/pom.xml
+  last_updated_by: chrislovecnm
+  last_updated_on: 2016-04-28 19:26:45.000000000 Z
+  vulnerabilities:
+  - name: Deserialization of Untrusted Data in org.codehaus.jackson:jackson-mapper-asl
+    cve_id: CVE-2019-10202
+    cve_url: https://github.com/advisories/GHSA-c27h-mcmw-48hv
+    detected_date: Feb 21
+    severity: critical
+    first_patched: 
+  - name: Improper Restriction of XML External Entity Reference in jackson-mapper-asl
+    cve_id: CVE-2019-10172
+    cve_url: https://github.com/advisories/GHSA-r6j9-8759-g62w
+    detected_date: Aug 22
+    severity: high
+    first_patched: 
+- name: org.hamcrest:hamcrest-all
+  description: A self-contained hamcrest jar containing all of the sub-modules in
+    a single artifact
+  version: '1.3'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/java/pom.xml
+  detection_source: cassandra/java/pom.xml
+  last_updated_by: chrislovecnm
+  last_updated_on: 2016-04-28 19:26:45.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  version: 1.7.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/gangadharure/examples/blob/master/cassandra/java/pom.xml
+  detection_source: cassandra/java/pom.xml
+  last_updated_by: chrislovecnm
+  last_updated_on: 2016-04-28 19:26:45.000000000 Z
