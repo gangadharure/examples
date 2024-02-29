@@ -62,7 +62,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gangadharure/examples](https://github.com/gangadharure/examples)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|30<br/>Tools used|02/15/24 <br/>Report generated|
+|30<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -277,7 +277,7 @@ Full tech stack [here](/techstack.md)
 |[ch.qos.logback:logback-classic](http://logback.qos.ch)|v1.1.3|04/28/16|chrislovecnm |EPL-1.0,LGPL-2.1+|[CVE-2017-5929](https://github.com/advisories/GHSA-vmfg-rjjm-rjrj) (Critical)<br/>[CVE-2023-6378](https://github.com/advisories/GHSA-vmq6-5m68-f53m) (High)|
 |[ch.qos.logback:logback-core](http://logback.qos.ch)|v1.1.3|04/28/16|chrislovecnm |EPL-1.0,LGPL-2.1+|[CVE-2017-5929](https://github.com/advisories/GHSA-vmfg-rjjm-rjrj) (Critical)<br/>[CVE-2023-6378](https://github.com/advisories/GHSA-vmq6-5m68-f53m) (High)<br/>[CVE-2021-42550](https://github.com/advisories/GHSA-668q-qrv7-99fm) (Moderate)|
 |[junit:junit](http://junit.org)|v4.11|04/28/16|chrislovecnm |EPL-1.0|[CVE-2020-15250](https://github.com/advisories/GHSA-269g-pwp5-87pp) (Moderate)|
-|[org.apache.cassandra:cassandra-all](https://cassandra.apache.org)|v3.11.2|02/22/18|Manuel de Brito Fontes |Apache-2.0|[CVE-2021-44521](https://github.com/advisories/GHSA-8ffc-79xg-29w8) (Critical)<br/>[CVE-2020-17516](https://github.com/advisories/GHSA-2vxm-vp4c-fjfw) (High)<br/>[CVE-2023-30601](https://github.com/advisories/GHSA-m9p2-j4hg-g373) (High)<br/>[CVE-2020-13946](https://github.com/advisories/GHSA-24ww-mc5x-xc43) (Moderate)|
+|[org.apache.cassandra:cassandra-all](https://cassandra.apache.org)|v3.11.2|02/22/18|Manuel de Brito Fontes |Apache-2.0|[CVE-2021-44521](https://github.com/advisories/GHSA-8ffc-79xg-29w8) (Critical)<br/>[CVE-2020-17516](https://github.com/advisories/GHSA-2vxm-vp4c-fjfw) (High)<br/>[CVE-2020-13946](https://github.com/advisories/GHSA-24ww-mc5x-xc43) (Moderate)|
 |[org.codehaus.jackson:jackson-core-asl](http://jackson.codehaus.org)|v1.9.13|04/28/16|chrislovecnm |Apache-2.0|N/A|
 |[org.codehaus.jackson:jackson-mapper-asl](http://jackson.codehaus.org)|v1.9.13|04/28/16|chrislovecnm |Apache-2.0|[CVE-2019-10202](https://github.com/advisories/GHSA-c27h-mcmw-48hv) (Critical)<br/>[CVE-2019-10172](https://github.com/advisories/GHSA-r6j9-8759-g62w) (High)|
 |[org.hamcrest:hamcrest-all](http://hamcrest.org/)|v1.3|04/28/16|chrislovecnm |BSD-3-Clause|N/A|
