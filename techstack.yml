@@ -2,7 +2,7 @@ repo_name: gangadharure/examples
 report_id: 803f2a27077fdf8c97868cf4132984a5
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-15T15:15:45+00:00'
+timestamp: '2024-02-29T20:04:12+00:00'
 requested_by: k8s-ci-robot
 provider: github
 branch: master
@@ -374,12 +374,6 @@ tools:
     detected_date: Feb 9
     severity: high
     first_patched: 3.11.10
-  - name: 'Apache Cassandra: Privilege escalation when enabling FQL/Audit logs'
-    cve_id: CVE-2023-30601
-    cve_url: https://github.com/advisories/GHSA-m9p2-j4hg-g373
-    detected_date: Jul 7
-    severity: high
-    first_patched: 4.0.10
   - name: Man-in-the-middle attack in Apache Cassandra
     cve_id: CVE-2020-13946
     cve_url: https://github.com/advisories/GHSA-24ww-mc5x-xc43
